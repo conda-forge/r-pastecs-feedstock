@@ -1,11 +1,11 @@
-About r-pastecs
-===============
+About r-pastecs-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pastecs-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/phgrosjean/pastecs
 
 Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pastecs-feedstock/blob/main/LICENSE.txt)
 
 Summary: Regularisation, decomposition and analysis of space-time series. The pastecs R package is a PNEC-Art4 and IFREMER (Benoit Beliaeff <Benoit.Beliaeff@ifremer.fr>) initiative to bring PASSTEC 2000 functionalities to R.
 
